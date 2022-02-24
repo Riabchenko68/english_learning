@@ -1,0 +1,14 @@
+{ 
+    "words": [
+        {"id": 1, "english": "habit", "transcription": "[ˈhæbɪt]", "german": "die Gewohnheit", "ukrainian": "звичка", "example": "This can develop into a bad habit."},
+        {"id": 2, "english": "to suffocate", "transcription": "[ˈsʌf.ə.keɪt]", "german": "ersticken", "ukrainian": "задихнутися", "example": "He said he'd suffocate if he remained in this house for another hour."},
+        {"id": 3, "english": "aftermath", "transcription": "[ˈɑːf.tə.mæθ]", "german": "die Nachwirkungen", "ukrainian": "наслідок", "example": "Food prices soared in the aftermath of the drought."},
+        {"id": 4, "english": "is collected", "transcription": "|kəˈlektɪd|", "german": "gesammelt", "ukrainian": "зібраний", "example": "She seemed completely cool, calm, and collected during her speech."},
+        {"id": 5, "english": "shade", "transcription": "[ʃeɪd]", "german": "der Schatten", "ukrainian": "тінь", "example": "Sitting in the shade."},
+        {"id": 6, "english": "in time", "transcription": "[taɪm]", "german": "rechtzeitig", "ukrainian": "вчасно", "example": "Just-in-time production."},
+        {"id": 7, "english": "to convince", "transcription": "[kənˈvɪns]", "german": "überzeugen", "ukrainian": "переконати", "example": "You couldn't convince him that a floppy disk was as good as a manuscript."},
+        {"id": 8, "english": "to persuade", "transcription": "[pərˈsweɪd]", "german": "überreden", "ukrainian": "вговорити", "example": "To persuade to vote for the Democratic Party."},
+        {"id": 9, "english": "to be used to", "transcription": "[juːst]", "german": "gewohnt sein an", "ukrainian": "звикнути", "example": "To be used to the cold."},
+        {"id": 10, "english": "", "transcription": "", "german": "", "ukrainian": "", "example": ""}
+    ]
+}

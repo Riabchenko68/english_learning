@@ -1,0 +1,50 @@
+html {
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+  
+table {
+    max-width: 80%;
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+  
+td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+}
+  
+th {
+    background-color: blue;
+    font-size: 1.2em;
+    color: white;
+}
+  
+td {
+    text-align: left;
+}
+  
+tr:nth-child(even) td {
+    background-color: rgb(248, 239, 236);
+}
+  
+tr:nth-child(odd) td {
+    background-color: rgb(229, 239, 252);
+}
+  
+caption {
+    padding: 10px;
+}
+  
+table button {
+    margin-left: 5px;
+    margin-top: 5px;
+}

@@ -1,0 +1,67 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.header .header-play {
+    margin: 40px;
+    text-align: center;
+    max-height: 100px;
+    min-width: 400px;
+    border-radius: 8px;
+    background-image: linear-gradient(#82c8f0, #5764f0);
+    color: #fff;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.header .header-play:hover {
+    background: #1a0dd4;
+}
+
+.header a {
+    color: #fff;
+}
+
+.header a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header .header-logo {
+    margin: 20px;
+    margin-left: 10em;
+}
+
+.header a:hover, .header .active, .header .active:focus, .header:hover > a {
+    color: #677983;
+}
+
+.header .header-button {
+    margin-top: 20px;
+}
+
+.header .header-button-ukrainian{
+    width: 150px;
+    height: 70px;
+    margin-top: 10px;
+    color: #fff;
+    border: 0;
+    outline: none;
+    display: block;
+    cursor: pointer;
+    border-radius: 8px;
+    background: linear-gradient(blue 25%, blue 25%, blue 50%, yellow 50%, yellow 75%, yellow 75%);
+}
+
+.header .header-button-german{
+    width: 150px;
+    height: 70px;
+    margin-top: 10px;
+    border: 0;
+    outline: none;
+    display: block;
+    cursor: pointer;
+    border-radius: 8px;
+    background: linear-gradient(black 25%, black 15%, red 40%, red 50%, rgb(245, 180, 58) 75%, rgb(245, 183, 69) 75%);
+}
